@@ -1,0 +1,2 @@
+# zybnc.bot
+wa.bot
